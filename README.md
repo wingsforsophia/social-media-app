@@ -1,3 +1,3 @@
 # social-media-app
 
-React Twitter clone.
+React Twitter clone
